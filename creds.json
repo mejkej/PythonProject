@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-money-manager",
+  "private_key_id": "f0aa359163c8647294c01f4ada24789bfb00514d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVdWPdG07E68E0\nj1sFanNoLIoM9TVbPHd5QpKR7LWGKFFvsBaLfWxceGPpsK/qXjj5//LBATt4nRDw\nyGtAGjmDyPIArG5dpgIyKkif0cTlcqJlKldhjo5QAqRUC1/fQJxu+LgdR7ccLVrN\nezBuBbnv3pPAeWMWYnYvY2+MzysUJHJe6JgPzlBoQ9VujPv1xi9UJRMq6sA/FFIO\nohtSBTDbc1bI6QC9tUOk1UxtJdHEEdxKR7b37qreGZ9hNHuCJxcJO6iTrMu4z4qm\nkgaDcCpAnE7j3DajaDslbRumnClGh0xOviAwmVoiPE++et4Ki6JmP6FmSGm9OdEh\nTG7WklIrAgMBAAECggEAU5nP3GObFJXvDApPUE4yV+0FvnB1DsAeXMAdjohiSeJV\njsQs+EHNpGPEYdzA8S4o64T6SuwUIjeF0H/2PVtoBjy3x1rBOO1RM9uKqQlrr5+X\nib6tDXjbNOvr9zyjNllkSzQfS9xwE1mSFCM4wwZ8Hb2TKZGBJN24QvQTVtc2nIK4\nBDp4W9Jzk98h+rtIk1ay4BvVUF4ISm9MjeC9AfHdcDz0XkRDsYAfn/S1AvSDeVcV\nwmRJ3W66/mxlgHW1S6DTngpIZvCFwsPwYt5Qu974TBZnX5SY+JaSAstILcc1huV9\noagNG80sfM5ason8ZPibYxC5kaqBlVpHrQ4qVAyhGQKBgQD+TRw+XWe9wDpQU7KF\noP9KogYODOxgcN5lNA5zzM8/czRuXGBEgi2WnD7psZWh+HGqa8SUCwwB72ab0FK2\nijQz847DVUq5VCdA6U+E5HPrgQV9jPiJFsUbHrV1P7DZuvzUjiHVpOiSFop4yq3M\npH8Tx9Mkh0hSVxtCpXB3Xv+VaQKBgQDW4m7qdlYAqHqab1znvGVeTA2fI5htLPMv\nsNlP1bCV9ljdCCM0EaRrOzNfQA8CDW/IDa1q2TYYe1RehcYrbM82sg8csfvqCWan\nkuT8pRE31035pfYPFx8kYZCeQgXIalLDrkMWuALIRnimgZNNCrMsmHfmvjdO7cxI\ngUbL0KYUcwKBgQDY7SxXotQZEH5uAUe7KAA+SQJDQBDvn7iGuiZN7/smk/642cIh\nDq8W2Afuz9blyQolJzMUWmwOxopQBiBYqIIpgu1YgUxx1XB6tctogHzF+1SUqglk\n3/CZ1tNRxlf1E8YTB3+jQL5HyEStD6+8buIcHIxnj6NI4hdV/cx3d6ksaQKBgQC+\niuCxdSdDxCGbSb6HGm6ElEnL4GNsA9zMYDQCb8j64QvhSzL0G+TA1SjzgDkOp92D\n9mTdByjJwqqIenTD0uNXa8KsvkJUP+vQEhiM0s4Wxws0oO40aVtLBlyXiJHaKjWj\noKWKwrZs4thfRSzZtvA0Tiqb5/XhPknTzRZ66lQqcwKBgHTzHhiXGXQt5RVPrFks\neJ8XVGz2X7Tql4dfftn96g9/Od3lTrJVH/JMOQVS1B4fJ3sgJGjmK21puAlSXxb8\nY/gBnlOZnwG+kYlj/ohPTlMU/e+m+pHhMbqa3JhH8uR1iXymCxY2arvVIPK5uVKE\nhidKNdQz9eGmncDCklE+yLXH\n-----END PRIVATE KEY-----\n",
+  "client_email": "moneymanager@python-money-manager.iam.gserviceaccount.com",
+  "client_id": "113102099942543450126",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/moneymanager%40python-money-manager.iam.gserviceaccount.com"
+}
